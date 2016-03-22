@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "title": "AlienArtifacts",
   "author": "flonussi",
-  "homepage": "",
+  "homepage": "https://github.com/flonussi/Alien-Artifact",
   "description": "Provides recipes for crafting alien artifacts.",
   "dependencies": ["base >= 0.12.00"]
 }
