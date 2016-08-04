@@ -8,9 +8,9 @@ data:extend({
         ingredients =
         {
             {"sulfur", 20 },
-            {"processing-unit", 15},
-            {"concrete", 100},
-            {"green-wire", 50}
+            {"processing-unit", 5},
+            {"concrete", 40},
+            {"green-wire", 10}
         },
         result = "alien-artifact"
     }

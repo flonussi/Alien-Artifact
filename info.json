@@ -4,6 +4,7 @@
   "title": "AlienArtifacts",
   "author": "flonussi",
   "homepage": "https://github.com/flonussi/Alien-Artifact",
-  "description": "Provides recipes for crafting alien artifacts.",
+  "description": "Provides recipe for crafting alien artifacts.",
+  "factorio_version": "0.13.0",
   "dependencies": ["base >= 0.12.00"]
 }
