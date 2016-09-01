@@ -1,10 +1,10 @@
 {
   "name": "AlienArtifacts",
-  "version": "1.0.0",
+  "version": "0.1.2",
   "title": "AlienArtifacts",
   "author": "flonussi",
   "homepage": "https://github.com/flonussi/Alien-Artifact",
   "description": "Provides recipe for crafting alien artifacts.",
-  "factorio_version": "0.13.0",
+  "factorio_version": "0.14.0",
   "dependencies": ["base >= 0.12.00"]
 }
